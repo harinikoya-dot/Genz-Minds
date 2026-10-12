@@ -16,3 +16,6 @@ build/
 
 # IDE
 .vscode/
+backend/medinova.db
+backend/storage/
+frontend/dist/
